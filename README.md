@@ -1,4 +1,4 @@
-#Earthquake Data Visulization in Map
+# Earthquake Data Visulization in Map
 
 This program was written as an assignment of the Object Oriented Programming in Java course offered by __UC San Diego through Coursera as the first course of 5 parts courses of _Object Oriented Java Programming: Data Structures and Beyond Specialization___ where the skeleton to use Unfolding in Eclipse as well as some starter code had been provided.
 
