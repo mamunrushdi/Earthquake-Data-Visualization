@@ -6,7 +6,7 @@ This program was written as an assignment of the Object Oriented Programming in 
 
 #### Specially in this prgoram I've done the followings:
 1. Generate visual maps using Java code, the Unfolding Maps libraries and Processing library
-1. Create and manipulate Graphical User Interfaces (GUIs)
+1. Create and manipulate Graphical User Interfaces (GUIs).
 1. Read live earthquake data and visualize it on the map as well visualize cities around the world on the Map.
 
 #### From this I course I've learnt the followings:
